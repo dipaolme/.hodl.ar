@@ -7,8 +7,8 @@ version: 0.3.5 # NO TOCAR
 username: dipa # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
-#nostr: 
-npub: "npub12hv6nxsm9cyycw665g6lea76cguv5jeaw2advaenuqujacnpq2lsteje7q" # Entre comillas dobles
+nostr: # Sin el # adelante
+  npub: "npub12hv6nxsm9cyycw665g6lea76cguv5jeaw2advaenuqujacnpq2lsteje7q" # Entre comillas dobles
 
 # Configuración Global
 html:
