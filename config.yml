@@ -4,16 +4,16 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
+username: dipa@hodl.ar # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+# npub: "npub12hv6nxsm9cyycw665g6lea76cguv5jeaw2advaenuqujacnpq2lsteje7q" # Entre comillas dobles
 
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | Dipa # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Matias Di Paola # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -31,11 +31,11 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+    url: https://www.instagram.com/matias_dipa/
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+ - title: Twitter
+   icon: twitter
+   url: https://twitter.com/mati_dipa
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
